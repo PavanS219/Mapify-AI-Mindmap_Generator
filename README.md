@@ -55,7 +55,6 @@ Create a `.env` file in the root:
 VITE_MINIMAX_API_KEY=your_minimax_api_key_here
 ```
 
-> 🆓 **No credits?** Claim free MiniMax credits → [forms.gle/YDFBrkkHwQ1p276dA](https://forms.gle/YDFBrkkHwQ1p276dA)
 
 ### 3. Run
 
